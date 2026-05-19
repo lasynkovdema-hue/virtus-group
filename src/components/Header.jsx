@@ -29,7 +29,7 @@ export default function Header() {
             <img
               src="/logo.png"
               alt="Virtus Group"
-              className={`h-14 w-auto transition-all duration-300 ${scrolled ? '' : 'brightness-0 invert'}`}
+              className={`h-9 w-auto transition-all duration-300 ${scrolled ? '' : 'brightness-0 invert'}`}
             />
           </a>
 
