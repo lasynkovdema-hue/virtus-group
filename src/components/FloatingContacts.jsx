@@ -24,14 +24,7 @@ const messengers = [
   {
     name: 'MAX',
     href: '#',
-    icon: (
-      <svg viewBox="0 0 24 24" fill="currentColor" className="w-5 h-5">
-        {/* M */}
-        <path d="M1 17V7h2.2l3.3 5.2L9.8 7H12v10H9.8v-6l-3.3 5-3.3-5v6H1z"/>
-        {/* X */}
-        <path d="M13.5 17l3-5-3-5h2.5l1.75 3L19.5 7H22l-3 5 3 5h-2.5l-1.75-3L16 17h-2.5z"/>
-      </svg>
-    ),
+    icon: <span className="text-xs font-bold tracking-wider">МАХ</span>,
   },
 ]
 
