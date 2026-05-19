@@ -1,7 +1,7 @@
 const messengers = [
   {
     name: 'WhatsApp',
-    href: 'https://wa.me/79258097717',
+    href: 'https://wa.me/79779885555',
     color: '#25D366',
     shadow: 'rgba(37,211,102,0.4)',
     icon: (
@@ -12,7 +12,7 @@ const messengers = [
   },
   {
     name: 'Telegram',
-    href: 'https://t.me/+79258097717',
+    href: 'https://t.me/+79779885555',
     color: '#2AABEE',
     shadow: 'rgba(42,171,238,0.4)',
     icon: (

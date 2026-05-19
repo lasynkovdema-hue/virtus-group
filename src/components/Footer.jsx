@@ -29,8 +29,8 @@ export default function Footer() {
           <div>
             <p className="text-xs text-white/30 tracking-widest uppercase mb-4">Контакты</p>
             <div className="space-y-2">
-              <a href="tel:+79258097717" className="block text-white/50 hover:text-white text-xs transition-colors">
-                +7 (925) 809-77-17
+              <a href="tel:+79779885555" className="block text-white/50 hover:text-white text-xs transition-colors">
+                +7 (977) 988-55-55
               </a>
               <p className="text-white/30 text-xs">Ростов-на-Дону</p>
               <p className="text-white/30 text-xs">Пн–Сб: 8:00 – 20:00</p>

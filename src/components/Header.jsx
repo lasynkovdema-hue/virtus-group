@@ -47,9 +47,9 @@ export default function Header() {
 
           {/* Телефон + CTA */}
           <div className="hidden md:flex items-center gap-6">
-            <a href="tel:+79258097717"
+            <a href="tel:+79779885555"
               className={`text-sm font-medium transition-colors ${scrolled ? 'text-stone' : 'text-white'}`}>
-              +7 (925) 809-77-17
+              +7 (977) 988-55-55
             </a>
             <a href="#contact"
               className={`text-sm font-medium px-5 py-2.5 border transition-all duration-200 ${
@@ -80,8 +80,8 @@ export default function Header() {
               {link.label}
             </a>
           ))}
-          <a href="tel:+79258097717" className="block py-3 text-stone font-medium text-sm">
-            +7 (925) 809-77-17
+          <a href="tel:+79779885555" className="block py-3 text-stone font-medium text-sm">
+            +7 (977) 988-55-55
           </a>
           <a href="#contact" onClick={() => setMenuOpen(false)}
             className="block mt-3 text-center bg-stone text-white text-sm font-medium py-3">

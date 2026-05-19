@@ -51,9 +51,9 @@ export default function ContactForm() {
             </div>
 
             <div className="mt-10 pt-8 border-t border-white/10">
-              <a href="tel:+79258097717"
+              <a href="tel:+79779885555"
                 className="text-white/60 hover:text-white text-sm transition-colors tracking-wide">
-                Или звоните: <span className="text-white font-medium">+7 (925) 809-77-17</span>
+                Или звоните: <span className="text-white font-medium">+7 (977) 988-55-55</span>
               </a>
             </div>
           </div>

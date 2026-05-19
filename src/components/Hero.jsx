@@ -39,9 +39,9 @@ export default function Hero() {
             className="w-full sm:w-auto bg-white text-stone text-sm font-medium tracking-widest uppercase px-10 py-4 hover:bg-cream transition-colors duration-300">
             Рассчитать стоимость
           </a>
-          <a href="tel:+79258097717"
+          <a href="tel:+79779885555"
             className="w-full sm:w-auto border border-white/50 text-white text-sm font-medium tracking-widest uppercase px-10 py-4 hover:bg-white/10 transition-colors duration-300">
-            +7 (925) 809-77-17
+            +7 (977) 988-55-55
           </a>
         </div>
       </div>
