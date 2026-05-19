@@ -25,8 +25,11 @@ const messengers = [
     name: 'MAX',
     href: '#',
     icon: (
-      <svg viewBox="0 0 24 24" fill="currentColor" className="w-6 h-6">
-        <path d="M12 2C6.477 2 2 6.477 2 12s4.477 10 10 10 10-4.477 10-10S17.523 2 12 2zm4.5 14h-1.75v-5.25l-2.75 3.5-2.75-3.5V16H7.5V8h1.75l2.75 3.75L14.75 8H16.5v8z"/>
+      <svg viewBox="0 0 24 24" fill="currentColor" className="w-5 h-5">
+        {/* M */}
+        <path d="M1 17V7h2.2l3.3 5.2L9.8 7H12v10H9.8v-6l-3.3 5-3.3-5v6H1z"/>
+        {/* X */}
+        <path d="M13.5 17l3-5-3-5h2.5l1.75 3L19.5 7H22l-3 5 3 5h-2.5l-1.75-3L16 17h-2.5z"/>
       </svg>
     ),
   },
