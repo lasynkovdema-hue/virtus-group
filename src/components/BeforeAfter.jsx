@@ -4,7 +4,7 @@ const projects = [
   {
     label: 'Гостиная · 42 м²',
     before: 'https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?w=1200&q=80',
-    after:  '/IMG_7839.PNG',
+    after:  '/IMG_7839.jpg',
   },
   {
     label: 'Кухня · 18 м²',
